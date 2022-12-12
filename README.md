@@ -1,6 +1,6 @@
 ## CounterJS
 
-Using React Custom Hooks To create Component
+Using React Custom Hooks To pass data to Component
 
 ## Tools
 - [React](https://reactjs.org/)
@@ -14,4 +14,4 @@ Using React Custom Hooks To create Component
 
 ## Code
 - [Code-on-Replit](https://replit.com/@Biademade/CounterJS?v=1)
-- [Code-on-Github](https://github.com/Biadedigital/Form-Render-Ui-)
+- [Code-on-Github](https://github.com/Biadedigital/CounterJS)
